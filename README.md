@@ -4,7 +4,7 @@
 
 ![Linked List](./assets/linkedlist.svg)
 
-`Apr 05 2022`
+> Hosted by Sanjay Gharti Magar `Apr 06, 2022`
 
 ## What is Linked List?
 
